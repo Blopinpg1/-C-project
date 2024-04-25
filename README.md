@@ -1,3 +1,3 @@
 # -C-project
-<h1>comptete </h1>
+<h1>complete </h1>
 
