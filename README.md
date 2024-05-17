@@ -1,3 +1,3 @@
 # -C-project
-<h2> COMPLETE BY <H2>
+   TEAM MEMBERS
 <h3> Bibek oli, Kaushal Adhikari, Nabin Joshi,Abisekh Karki <h3>
