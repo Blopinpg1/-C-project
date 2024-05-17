@@ -1,4 +1,4 @@
 # -C-project
-<h1> Project on integrated management system <h1>
+<h2> Project on integrated management system <h2>
    TEAM MEMBERS
 <h3> Bibek oli, Kaushal Adhikari, Nabin Joshi,Abisekh Karki <h3>
