@@ -60,22 +60,5 @@ The system uses basic file handling to store records like bookings, bills, user 
    gcc main.c -o hotel-paradise
    ./hotel-paradise
 
-  **📁 File Structure**
-  **hotel-paradise/
-├── main.c              # Main source file
-├── README.md           # This file
-├── customer_detail.txt # Stores customer booking details
-├── EMP.DAT             # Employee records
-├── RestaurantBill.dat  # Restaurant invoice data
-├── books.txt           # Book inventory
-└── issue.txt           # Issued books log**
-
-✅ Sample Use Cases
-Book a Room : Choose from available types, enter personal info, and receive a reservation ID..
-Login/Register : Create an account or log in to access banking and game features.
-Banking : Deposit, withdraw, or transfer funds securely.
-Restaurant : Generate and save invoices after meals.
-Library : Issue or return books with automatic date logging.
-Game : Enjoy a quick round of Rock-Paper-Scissors!
 
 
