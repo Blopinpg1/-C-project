@@ -71,7 +71,7 @@ The system uses basic file handling to store records like bookings, bills, user 
 └── issue.txt           # Issued books log**
 
 ✅ Sample Use Cases
-Book a Room : Choose from available types, enter personal info, and receive a reservation ID.
+Book a Room : Choose from available types, enter personal info, and receive a reservation ID..
 Login/Register : Create an account or log in to access banking and game features.
 Banking : Deposit, withdraw, or transfer funds securely.
 Restaurant : Generate and save invoices after meals.
