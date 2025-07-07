@@ -1,6 +1,6 @@
 
   TEAM MEMBERS
-<h3> Bibek oli, Kaushal Adhikari, "Nabin Joshi",Abisekh Karki <h3>
+<h3> Bibek oli, Kaushal Adhikari,Nabin Joshi,Abisekh Karki <h3>
 
 # 🏨 Hotel Paradise Management System
 
